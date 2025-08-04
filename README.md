@@ -134,7 +134,6 @@ Following error codes will be returned on the `onError` method of the callback
 | 507  | Failed to retrieve data                         |
 | 508  | Invalid settings                                |
 | 509  | Camera permission denied                        |
-| 405  | Transaction limit exceeded                      |
 
 ## Atlas SDK API
 
