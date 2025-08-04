@@ -133,7 +133,7 @@ Following error codes will be returned on the `onError` method of the callback
 | 506  | No internet connection                          |
 | 507  | Failed to retrieve data                         |
 | 508  | Invalid settings                                |
-| 509  | Camera permission denied                        |
+| 509  | Permission denied                               |
 
 ## Atlas SDK API
 
